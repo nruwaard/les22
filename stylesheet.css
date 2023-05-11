@@ -1,0 +1,15 @@
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(34, 0, 27);
+    color: white;
+    height: 200px;
+  }
+
+.navbar {
+    min-height: 150px;
+}
+
+.nav-link {
+    color: rgb(255, 0, 200) !important;
+    }
